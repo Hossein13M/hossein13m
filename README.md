@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  <a alt="Hossein Mousavi">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hossein13m&show_icons=true&theme=nord)
+    <img src="https://github-readme-stats.vercel.app/api?username=hossein13m&show_icons=true&theme=nord" alt="Hossein Mousavi stats"/>
  </a>
 </p>
 
