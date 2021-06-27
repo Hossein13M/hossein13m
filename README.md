@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-D64A17?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10341207/hossein-mousavi)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hossein13m/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.hosseinmousavi@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-100000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hossein13m)
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hossein13.m/) -->
 
