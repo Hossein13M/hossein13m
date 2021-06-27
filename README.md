@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">You can find me in social media::</h3>
+<h3 align="center">You can find me in social media:</h3>
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hossein13m/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-D64A17?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10341207/hossein-mousavi)
