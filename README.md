@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/wave.gif" width="27px"></h1>
+<h1 align="center">Hi there I'm Hossein Mousavi<img src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/wave.gif" width="27px" alt="wave"></h1>
 
 
 <!--
@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hossein13m/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hossein13.m/)
 
-<p align="center">
- <a alt="Hossein Mousavi">
-  <img src="https://github-readme-stats.vercel.app/api?username=hossein13m&show_icons=true&theme=nord" alt="Hossein Mousavi stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein13m&show_icons=true&theme=nord&langs_count=3" alt="Hossein Mousavi Top Languages"/>
-  
- </a>
-</p>
+<div align="center" >
+    <a style="margin: 5px" alt="Hossein Mousavi" href="https://hmousavi.dev/">
+        <img height="200px" src="https://github-readme-stats.vercel.app/api?username=hossein13m&show_icons=true&theme=nord" alt="Hossein Mousavi stats"/>
+    </a>
+    <a style="margin: 5px" alt="Hossein Mousavi" href="https://hmousavi.dev/">
+        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein13m&show_icons=true&theme=nord&langs_count=3" alt="Hossein Mousavi Top Languages"/>
+    </a>
+</div>
 
