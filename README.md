@@ -27,10 +27,8 @@ Here are some ideas to get you started:
 <p align="center">
  <a alt="Hossein Mousavi">
   <img src="https://github-readme-stats.vercel.app/api?username=hossein13m&show_icons=true&theme=nord" alt="Hossein Mousavi stats"/>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein13m&langs_count=3&count_private=true&theme=nord" alt="Hossein Mousavi Top Languages"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein13m&show_icons=true&theme=radical&langs_count=3" alt="Hossein Mousavi Top Languages"/>
   
  </a>
 </p>
 
-
-![Hossein Mousavi's GitHub Top Languages](https://github-readme-stats.vercel.app/api?username=hossein13m&show_icons=true&theme=radical)
