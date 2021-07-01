@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hossein13.m/) -->
 
-<br/>
 <h3>🛠 Languages and Tools</h3>
   <div>
     <img height="30" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/javascript.svg"> &nbsp; &nbsp;
