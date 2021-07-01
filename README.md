@@ -34,6 +34,7 @@ Here are some ideas to get you started:
     <img height="30" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/nodejs.svg"> &nbsp; &nbsp;
     <img height="30" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/react.svg"> &nbsp; &nbsp; 
   </div>
+<br/>
 
 
 
