@@ -28,10 +28,21 @@ Here are some ideas to get you started:
 
 <h3>🛠 Languages and Tools</h3>
   <div>
-    <img height="30" src="https://www.iconfinder.com/icons/652581/download/svg/512"> &nbsp; &nbsp;
-    <img height="30" src="https://www.iconfinder.com/icons/317755/download/svg/512"> &nbsp; &nbsp;
-    <img height="30" src="https://www.iconfinder.com/icons/4518980/download/svg/512"> &nbsp; &nbsp;
-    <img height="30" src="https://www.iconfinder.com/icons/4373153/download/svg/512"> &nbsp; &nbsp;
+    <img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
+    <img src="https://img.icons8.com/color/50/000000/typescript.png"/>
+    <img src="https://img.icons8.com/color/50/000000/angularjs.png"/>
+    <img src="https://img.icons8.com/color/50/000000/vue-js.png"/>
+    <img src="https://img.icons8.com/color/50/000000/nodejs.png"/>
+    <img src="https://img.icons8.com/color/50/000000/mongodb.png"/>
+    <img src="https://img.icons8.com/color/50/000000/linux--v1.png"/>
+    <img src="https://img.icons8.com/color/50/000000/git.png"/>
+    <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
+    <img src="https://img.icons8.com/color/50/000000/css3.png"/>
+  
+<!--     <img height="40" src="https://www.iconfinder.com/icons/652581/download/svg/512"> &nbsp; &nbsp;
+    <img height="40" src="https://www.iconfinder.com/icons/317755/download/svg/512"> &nbsp; &nbsp;
+    <img height="40" src="https://www.iconfinder.com/icons/4518980/download/svg/512"> &nbsp; &nbsp;
+    <img height="40" src="https://www.iconfinder.com/icons/4373153/download/svg/512"> &nbsp; &nbsp; -->
   
   </div>
 <br/>
