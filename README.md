@@ -28,10 +28,11 @@ Here are some ideas to get you started:
 
 <h3>🛠 Languages and Tools</h3>
   <div>
-    <img height="30" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/javascript.svg"> &nbsp; &nbsp;
-    <img height="30" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/typescript.svg"> &nbsp; &nbsp;
-    <img height="30" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/nodejs.svg"> &nbsp; &nbsp;
-    <img height="30" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/react.svg"> &nbsp; &nbsp; 
+    <img height="30" src="https://www.iconfinder.com/icons/652581/download/svg/512"> &nbsp; &nbsp;
+    <img height="30" src="https://www.iconfinder.com/icons/317755/download/svg/512"> &nbsp; &nbsp;
+    <img height="30" src="https://www.iconfinder.com/icons/4518980/download/svg/512"> &nbsp; &nbsp;
+    <img height="30" src="https://www.iconfinder.com/icons/4373153/download/svg/512"> &nbsp; &nbsp;
+  
   </div>
 <br/>
 
