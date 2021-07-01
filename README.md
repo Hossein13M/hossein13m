@@ -26,6 +26,16 @@ Here are some ideas to get you started:
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hossein13.m/) -->
 
+<br/>
+### 🛠 Languages and Tools 
+  <img height="30" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/javascript.svg"> &nbsp; &nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/typescript.svg"> &nbsp; &nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/nodejs.svg"> &nbsp; &nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/react.svg"> &nbsp; &nbsp; 
+
+
+
+
 <div align="center" >
     <a style="margin: 5px" alt="Hossein Mousavi" href="https://hmousavi.dev/">
         <img height="200px" src="https://github-readme-stats.vercel.app/api?username=hossein13m&show_icons=true&theme=nord" alt="Hossein Mousavi stats"/>
