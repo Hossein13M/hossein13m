@@ -29,9 +29,8 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/50/000000/css3.png"/>
   </div>
-<br/>
 
-<h3>🔎 Where to find me:</h3>
+<h3>🔎 Social Medias:</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein13m/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hossein13m/)
