@@ -18,16 +18,17 @@ Here are some ideas to get you started:
 
 <h3>🛠 Languages and Tools</h3>
   <div>
-    <img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
-    <img src="https://img.icons8.com/color/50/000000/typescript.png"/>
-    <img src="https://img.icons8.com/color/50/000000/angularjs.png"/>
-    <img src="https://img.icons8.com/color/50/000000/vue-js.png"/>
-    <img src="https://img.icons8.com/color/50/000000/nodejs.png"/>
-    <img src="https://img.icons8.com/color/50/000000/mongodb.png"/>
-    <img src="https://img.icons8.com/color/50/000000/linux--v1.png"/>
-    <img src="https://img.icons8.com/color/50/000000/git.png"/>
-    <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
-    <img src="https://img.icons8.com/color/50/000000/css3.png"/>
+    <img src="./assets/javascript.png"/>
+    <img src="./assets/typescript.png"/>
+    <img src="./assets/angular.png"/>
+    <img src="./assets/vue-js.png"/>
+    <img src="./assets/nodejs.png"/>
+    <img src="./assets/mongodb.png"/>
+    <img src="./assets/linux.png"/>
+    <img src="./assets/git.png"/>
+    <img src="./assets/html-5.png"/>
+    <img src="./assets/css3.png"/>
+<!--  image credit: https://icons8.com/  -->
   </div>
 
 <h3>🔎 Social Medias:</h3>
@@ -50,3 +51,4 @@ Here are some ideas to get you started:
     </a>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hossein13m" alt="hossein mousavi" /> </p>
