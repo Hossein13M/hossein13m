@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="./assets/terminal.gif"/>
+
 <h3>🛠 Languages and Tools</h3>
   <div>
     <img src="./assets/javascript.png"/>
