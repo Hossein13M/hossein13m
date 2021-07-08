@@ -49,10 +49,10 @@ Here are some ideas to get you started:
 
 <div align="center" >
     <a style="margin: 5px" alt="Hossein Mousavi" href="https://hmousavi.dev/">
-        <img height="200px" src="https://github-readme-stats.vercel.app/api?username=hossein13m&show_icons=true&theme=nord" alt="Hossein Mousavi stats"/>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api?username=hossein13m&show_icons=true&theme=nord" alt="Hossein Mousavi stats"/>
     </a>
     <a style="margin: 5px" alt="Hossein Mousavi" href="https://hmousavi.dev/">
-        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein13m&show_icons=true&theme=nord&langs_count=4" alt="Hossein Mousavi Top Languages"/>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein13m&show_icons=true&theme=nord&langs_count=4" alt="Hossein Mousavi Top Languages"/>
     </a>
 </div>
 
