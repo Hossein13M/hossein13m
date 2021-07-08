@@ -1,4 +1,4 @@
-<h1 align="center">Hi there<img src="./assets/wave.gif" width="27px" alt="wave"></h1>
+<h2 align="center">Hi there<img src="./assets/wave.gif" width="27px" alt="wave"></h2>
 
 
 <!--
@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./assets/terminal.gif"/>
+<div align="center">
+  <img src="./assets/terminal.gif"/>
+</div>
+
 
 <h3>🛠 Languages and Tools</h3>
   <div>
