@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="./assets/terminal.gif"/>
-</div>
+</div> -->
 
 
 <h3>🛠 Languages and Tools</h3>
