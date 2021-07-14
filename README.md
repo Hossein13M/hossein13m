@@ -1,4 +1,6 @@
-<h2 align="center">Hi there<img src="./assets/wave.gif" width="27px" alt="wave"></h2>
+<h2 align="center">Hi there I'm Hossein Mousavi 👋
+<!--   <img src="./assets/wave.gif" width="27px" alt="wave"> -->
+</h2>
 
 
 <!--
