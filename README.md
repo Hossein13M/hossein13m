@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div> -->
 
 
-<h3>🛠 Skills</h3>
+<h3>🛠 Skills, Languages and Tools</h3>
   <div>
     <img src="./assets/javascript.png"/>
     <img src="./assets/typescript.png"/>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <!--  image credit: https://icons8.com/  -->
   </div>
 
-<h3>🔎 Where to find me</h3>
+<h3>🔎 Find me on</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein13m/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hossein13m/)
