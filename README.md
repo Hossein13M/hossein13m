@@ -16,20 +16,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./assets/terminal.gif"/>
+<img src="./assets/terminal.gif" alt="terminal"/>
 
 <h3>🛠 Languages and Tools</h3>
   <div>
-    <img src="./assets/javascript.png"/>
-    <img src="./assets/typescript.png"/>
-    <img src="./assets/angular.png"/>
-    <img src="./assets/vue-js.png"/>
-    <img src="./assets/nodejs.png"/>
-    <img src="./assets/mongodb.png"/>
-    <img src="./assets/linux.png"/>
-    <img src="./assets/git.png"/>
-    <img src="./assets/html-5.png"/>
-    <img src="./assets/css3.png"/>
+    <img src="./assets/javascript.png" alt="js"/>
+    <img src="./assets/typescript.png" alt="ts"/>
+    <img src="./assets/angular.png" alt="angular"/>
+    <img src="./assets/vue-js.png" alt="vue"/>
+    <img src="./assets/nodejs.png" alt="nodejs"/>
+    <img src="./assets/mongodb.png" alt="mongodb"/>
+    <img src="./assets/linux.png" alt="linux"/>
+    <img src="./assets/git.png" alt="git"/>
+    <img src="./assets/html-5.png" alt="html"/>
+    <img src="./assets/css3.png" alt="css"/>
 <!--  image credit: https://icons8.com/  -->
   </div>
 
