@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     
 
   <h3>🔎 Find me on</h3> 
-<div>
+<div style="margin-bottom: 10px">
     <a href="https://www.linkedin.com/in/hossein13m" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://github.com/hossein13m/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="https://stackoverflow.com/users/10341207/hossein-mousavi" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-D64A17?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverFlow"/></a>
