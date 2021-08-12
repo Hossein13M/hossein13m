@@ -1,6 +1,4 @@
-<h2 align="center">Hi there I'm Hossein Mousavi 👋
-<!--   <img src="./assets/wave.gif" width="27px" alt="wave"> -->
-</h2>
+<h2 align="center">Hi there I'm Hossein Mousavi 👋</h2>
 
 
 <!--
@@ -17,10 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- <div align="center">
-  <img src="./assets/terminal.gif"/>
-</div> -->
 
 
 <h3>🛠 Skills, Languages and Tools</h3>
@@ -47,13 +41,12 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.hosseinmousavi@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-100000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hossein13m)
 
-<div align="center" >
-    <a style="margin: 5px" alt="Hossein Mousavi" href="https://hmousavi.dev/">
+<div style="text-align: center" >
+    <a style="margin: 5px"  href="https://hmousavi.dev/">
         <img height="170px" src="https://github-readme-stats.vercel.app/api?username=hossein13m&show_icons=true&theme=nord" alt="Hossein Mousavi stats"/>
     </a>
-    <a style="margin: 5px" alt="Hossein Mousavi" href="https://hmousavi.dev/">
+    <a style="margin: 5px" href="https://hmousavi.dev/">
         <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein13m&show_icons=true&theme=nord&langs_count=4" alt="Hossein Mousavi Top Languages"/>
     </a>
 </div>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossein13m" alt="hossein mousavi" /> </p> -->
