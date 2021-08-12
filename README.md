@@ -1,4 +1,6 @@
-<h1 align="center">Hi there<img src="./assets/wave.gif" width="27px" alt="wave"></h1>
+<h2 align="center">Hi there I'm Hossein Mousavi 👋
+<!--   <img src="./assets/wave.gif" width="27px" alt="wave"> -->
+</h2>
 
 
 <!--
@@ -16,9 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./assets/terminal.gif" alt="terminal"/>
+<!-- <div align="center">
+  <img src="./assets/terminal.gif"/>
+</div> -->
 
-<h3>🛠 Languages and Tools</h3>
+
+<h3>🛠 Skills, Languages and Tools</h3>
   <div>
     <img src="./assets/javascript.png" alt="js"/>
     <img src="./assets/typescript.png" alt="ts"/>
@@ -33,7 +38,7 @@ Here are some ideas to get you started:
 <!--  image credit: https://icons8.com/  -->
   </div>
 
-<h3>🔎 Social Medias:</h3>
+<h3>🔎 Find me on</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein13m/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hossein13m/)
@@ -42,15 +47,13 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.hosseinmousavi@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-100000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hossein13m)
 
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hossein13.m/) -->
-
 <div align="center" >
     <a style="margin: 5px" alt="Hossein Mousavi" href="https://hmousavi.dev/">
-        <img height="200px" src="https://github-readme-stats.vercel.app/api?username=hossein13m&show_icons=true&theme=nord" alt="Hossein Mousavi stats"/>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api?username=hossein13m&show_icons=true&theme=nord" alt="Hossein Mousavi stats"/>
     </a>
     <a style="margin: 5px" alt="Hossein Mousavi" href="https://hmousavi.dev/">
-        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein13m&show_icons=true&theme=nord&langs_count=4" alt="Hossein Mousavi Top Languages"/>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein13m&show_icons=true&theme=nord&langs_count=4" alt="Hossein Mousavi Top Languages"/>
     </a>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hossein13m" alt="hossein mousavi" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossein13m" alt="hossein mousavi" /> </p> -->
