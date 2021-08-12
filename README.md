@@ -19,16 +19,36 @@ Here are some ideas to get you started:
 
 <h3>🛠 Skills, Languages and Tools</h3>
   <div>
-    <img src="./assets/javascript.png" alt="js"/>
-    <img src="./assets/typescript.png" alt="ts"/>
-    <img src="./assets/angular.png" alt="angular"/>
-    <img src="./assets/vue-js.png" alt="vue"/>
-    <img src="./assets/nodejs.png" alt="nodejs"/>
-    <img src="./assets/mongodb.png" alt="mongodb"/>
-    <img src="./assets/linux.png" alt="linux"/>
-    <img src="./assets/git.png" alt="git"/>
-    <img src="./assets/html-5.png" alt="html"/>
-    <img src="./assets/css3.png" alt="css"/>
+    <a href="https://hmousavi.dev/" target="_blank">
+        <img src="./assets/javascript.png" alt="js"/>
+    </a>
+    <a href="https://hmousavi.dev/" target="_blank">
+        <img src="./assets/typescript.png" alt="ts"/>
+    </a>
+    <a href="https://hmousavi.dev/" target="_blank">
+        <img src="./assets/angular.png" alt="angular"/>
+    </a>
+    <a href="https://hmousavi.dev/" target="_blank">
+        <img src="./assets/vue-js.png" alt="vue"/>
+    </a>
+    <a href="https://hmousavi.dev/" target="_blank">
+        <img src="./assets/nodejs.png" alt="nodejs"/>
+    </a>
+    <a href="https://hmousavi.dev/" target="_blank">
+        <img src="./assets/mongodb.png" alt="mongodb"/>
+    </a>
+    <a href="https://hmousavi.dev/" target="_blank">
+        <img src="./assets/linux.png" alt="linux"/>
+    </a>
+    <a href="https://hmousavi.dev/" target="_blank">
+        <img src="./assets/git.png" alt="git"/>
+    </a>
+    <a href="https://hmousavi.dev/" target="_blank">
+        <img src="./assets/html-5.png" alt="html"/>
+    </a>
+    <a href="https://hmousavi.dev/" target="_blank">
+        <img src="./assets/css3.png" alt="css"/>
+    </a>
 <!--  image credit: https://icons8.com/  -->
   </div>
 
@@ -42,10 +62,10 @@ Here are some ideas to get you started:
 [![Medium](https://img.shields.io/badge/Medium-100000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hossein13m)
 
 <div style="text-align: center" >
-    <a style="margin: 5px"  href="https://hmousavi.dev/">
+    <a style="margin: 5px"  href="https://hmousavi.dev/" target="_blank">
         <img height="170px" src="https://github-readme-stats.vercel.app/api?username=hossein13m&show_icons=true&theme=nord" alt="Hossein Mousavi stats"/>
     </a>
-    <a style="margin: 5px" href="https://hmousavi.dev/">
+    <a style="margin: 5px" href="https://hmousavi.dev/" target="_blank">
         <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein13m&show_icons=true&theme=nord&langs_count=4" alt="Hossein Mousavi Top Languages"/>
     </a>
 </div>
