@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </h3>
 
 
-<h3>🛠  My Skills, Languages, and Tools</h3>
+<h3>🛠  My Skills, Expertise, and Tools</h3>
   <div>
     <a style="text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/javascript.png" alt="js"/>
