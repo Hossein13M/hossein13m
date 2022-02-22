@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 <div style="text-align: center" >
     <a style="margin: 5px; text-decoration: none !important"  href="https://hmousavi.dev/" target="_blank">
-        <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossein13m&theme=solarized_dark" alt="Hossein Mousavi stats"/>
+        <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossein13m&theme=github_dark" alt="Hossein Mousavi stats"/>
     </a>
     <a style="margin: 5px; text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
         <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein13m&show_icons=true&theme=nord&langs_count=12&layout=compact" alt="Hossein Mousavi Top Languages"/>
