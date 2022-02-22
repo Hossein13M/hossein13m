@@ -89,6 +89,13 @@ Here are some ideas to get you started:
    <a style="margin: 5px; text-decoration: none !important"  href="https://hmousavi.dev/" target="_blank">
         <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hossein13m&theme=dracula" alt="Hossein Mousavi stats"/>
    </a>
+   <a style="margin: 5px; text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
+        <img height="170px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein13m&show_icons=true&theme=dracula&langs_count=12&layout=compact&hide_border=true" alt="Hossein Mousavi Top Languages"/>
+   </a>
+   <a style="margin: 5px; text-decoration: none !important"  href="https://hmousavi.dev/" target="_blank">
+        <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hossein13m&theme=dracula" alt="Hossein Mousavi stats"/>
+   </a>
+   
     
 </div>
 
