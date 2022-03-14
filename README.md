@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h3>
    <a style="text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
-        <span> 🌐 Visit My Porfolio: hmousavi.dev </span>
+        <span> 🌐 My Porfolio: hmousavi.dev </span>
     </a>
 </h3>
 
