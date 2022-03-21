@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 
 
-<h3>
+<h3 style="text-align: center">
    <a style="text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
-        <span> 🌐 My Porfolio: hmousavi.dev </span>
+        <span> 🌐 For More Information, Visit My Porfolio: hmousavi.dev </span>
     </a>
 </h3>
 
