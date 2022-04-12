@@ -12,13 +12,11 @@ Here are some ideas to get you started:
 <div>
   <h1>Hi there, This is Hossein Mousavi 👋</h1>
   <h3 style="text-align: center">
-   💻 I'm a Software Developer focused on JavaScript environment, find out more about me:
-  </h3>
-  <h1 align="center">
+   💻 I'm a Software Developer focused on JavaScript. Find more on:
     <a style="text-decoration: none !important;"   href="https://hmousavi.dev/" target="_blank">
       <span> https://hmousavi.dev </span>
     </a>
-  </h1>
+  </h3>
 </div>
 
 
