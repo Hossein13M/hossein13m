@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <h3 style="text-align: center">
-   💻 For More Information, Visit My Porfolio: 
+   💻 For More Information, Visit My Portfolio: 
    <a style="text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
         <span> hmousavi.dev </span>
     </a>
