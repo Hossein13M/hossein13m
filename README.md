@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 
 <h3 style="text-align: center">
-   💻 I'm a Software Developer focused on JavaScript environment, find out more about me on my portfolio: 
-   <a style="text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
+   💻 I'm a Software Developer focused on JavaScript environment, find out more about me:<a style="text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
         <span> hmousavi.dev </span>
     </a>
 </h3>
