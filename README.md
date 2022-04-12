@@ -1,12 +1,5 @@
-
-<h2 style="text-align: center">Hi there, This is Hossein Mousavi 👋</h2>
-
-
-<!--
-**hossein13m/hossein13m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--**hossein13m/hossein13m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,8 +9,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
+<h1>Hi there, This is Hossein Mousavi 👋</h1>
 <h3 style="text-align: center">
    💻 I'm a Software Developer focused on JavaScript environment, find out more about me:
 </h3>
@@ -30,7 +22,7 @@ Here are some ideas to get you started:
 
 <h3>🛠  My Skills, Expertise, and Tools</h3>
   <div>
-        <img style="cursor: default" src="./assets/javascript.png" alt="js"/>
+        <img src="./assets/javascript.png" alt="js"/>
         <img src="./assets/typescript.png" alt="ts"/>
         <img src="./assets/angular.png" alt="angular"/>
         <img src="./assets/vue-js.png" alt="vue"/>
