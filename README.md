@@ -30,39 +30,18 @@ Here are some ideas to get you started:
 
 <h3>🛠  My Skills, Expertise, and Tools</h3>
   <div>
-    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/javascript.png" alt="js"/>
-    </a>
-    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/typescript.png" alt="ts"/>
-    </a>
-    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/angular.png" alt="angular"/>
-    </a>
-    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/vue-js.png" alt="vue"/>
-    </a>
-    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/react.png" alt="react"/>
-    </a>
-    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/nodejs.png" alt="nodejs"/>
-    </a>
-    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/mongodb.png" alt="mongodb"/>
-    </a>
-    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/linux.png" alt="linux"/>
-    </a>
-    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/git.png" alt="git"/>
-    </a>
-    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/html-5.png" alt="html"/>
-    </a>
-    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/css3.png" alt="css"/>
-    </a>
+    
 <!--  image credit: https://icons8.com/  -->
   </div>
     
