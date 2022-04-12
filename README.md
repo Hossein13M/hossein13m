@@ -30,37 +30,37 @@ Here are some ideas to get you started:
 
 <h3>🛠  My Skills, Expertise, and Tools</h3>
   <div>
-    <a style="text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
+    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/javascript.png" alt="js"/>
     </a>
-    <a style="text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
+    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/typescript.png" alt="ts"/>
     </a>
-    <a style="text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
+    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/angular.png" alt="angular"/>
     </a>
-    <a style="text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
+    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/vue-js.png" alt="vue"/>
     </a>
-    <a style="text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
+    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/react.png" alt="react"/>
     </a>
-    <a style="text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
+    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/nodejs.png" alt="nodejs"/>
     </a>
-    <a style="text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
+    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/mongodb.png" alt="mongodb"/>
     </a>
-    <a style="text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
+    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/linux.png" alt="linux"/>
     </a>
-    <a style="text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
+    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/git.png" alt="git"/>
     </a>
-    <a style="text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
+    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/html-5.png" alt="html"/>
     </a>
-    <a style="text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
+    <a style="text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/css3.png" alt="css"/>
     </a>
 <!--  image credit: https://icons8.com/  -->
@@ -81,21 +81,21 @@ Here are some ideas to get you started:
 
 <div style="text-align: center" >
 
-   <a style="margin: 5px; text-decoration: none !important"  href="https://hmousavi.dev/" target="_blank">
+   <a style="margin: 5px; text-decoration: none !important; cursor: default"  href="https://hmousavi.dev/" target="_blank">
         <img height="170px" width="550px"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossein13m&theme=dracula" alt="Hossein Mousavi stats"/>
    </a>
-   <a style="margin: 5px; text-decoration: none !important"  href="https://hmousavi.dev/" target="_blank">
+   <a style="margin: 5px; text-decoration: none !important; cursor: default"  href="https://hmousavi.dev/" target="_blank">
         <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hossein13m&theme=dracula" alt="Hossein Mousavi stats"/>
    </a>
 
 
-   <a style="margin: 5px; text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
+   <a style="margin: 5px; text-decoration: none !important; cursor: default" href="https://hmousavi.dev/" target="_blank">
         <img height="170px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein13m&show_icons=true&theme=dracula&langs_count=12&layout=compact&hide_border=true" alt="Hossein Mousavi Top Languages"/>
    </a>
-   <a style="margin: 5px; text-decoration: none !important"  href="https://hmousavi.dev/" target="_blank">
+   <a style="margin: 5px; text-decoration: none !important; cursor: default"  href="https://hmousavi.dev/" target="_blank">
         <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hossein13m&theme=dracula" alt="Hossein Mousavi stats"/>
    </a>
-   <a style="margin: 5px; text-decoration: none !important"  href="https://hmousavi.dev/" target="_blank">
+   <a style="margin: 5px; text-decoration: none !important; cursor: default"  href="https://hmousavi.dev/" target="_blank">
         <img height="170px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Hossein Mousavi stats"/>
    </a>
    
