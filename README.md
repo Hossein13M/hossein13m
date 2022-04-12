@@ -41,6 +41,9 @@ Here are some ideas to get you started:
         <img src="./assets/vue-js.png" alt="vue"/>
     </a>
     <a style="text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
+        <img src="./assets/react.png" alt="react"/>
+    </a>
+    <a style="text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
         <img src="./assets/nodejs.png" alt="nodejs"/>
     </a>
     <a style="text-decoration: none !important" href="https://hmousavi.dev/" target="_blank">
