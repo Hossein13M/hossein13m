@@ -14,7 +14,7 @@ Here are some ideas to get you started:
   <h3 style="text-align: center">
    💻 I'm a Software Developer focused on JavaScript. Find more on:
     <a style="text-decoration: none !important;"   href="https://hmousavi.dev/" target="_blank">
-      <span> https://hmousavi.dev </span>
+      <span> hmousavi.dev </span>
     </a>
   </h3>
 </div>
