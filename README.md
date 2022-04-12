@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <h3>🛠  My Skills, Expertise, and Tools</h3>
   <div>
-        <img src="./assets/javascript.png" alt="js"/>
+        <img style="cursor: default" src="./assets/javascript.png" alt="js"/>
         <img src="./assets/typescript.png" alt="ts"/>
         <img src="./assets/angular.png" alt="angular"/>
         <img src="./assets/vue-js.png" alt="vue"/>
