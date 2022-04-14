@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <div>
   <h1>Hi there, This is Hossein Mousavi 👋</h1>
   <h3 style="text-align: center">
-   💻 I'm a Software Developer. Find out about my expertise, publications and contact me on:
+   💻 Find out about my expertise, publications and contact me on:
     <a style="text-decoration: none !important;"   href="https://hmousavi.dev/" target="_blank">
       <span> hmousavi.dev </span>
     </a>
