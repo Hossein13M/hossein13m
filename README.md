@@ -52,8 +52,9 @@ Here are some ideas to get you started:
     <a style="text-decoration: none !important" href="https://stackoverflow.com/users/10341207/hossein-mousavi" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-D64A17?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverFlow"/></a>
     <a style="text-decoration: none !important" href="https://twitter.com/hossein13m" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
     <a style="text-decoration: none !important" href="mailto:dev.hosseinmousavi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a style="text-decoration: none !important" href="https://medium.com/@hossein13m" target="_blank"><img src="https://img.shields.io/badge/Medium-100000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-<!--     <a style="text-decoration: none !important" href="https://devlibrary.withgoogle.com/authors/hossein13m" target="_blank"><img src="https://img.shields.io/badge/GoogleDevAuthor-9cf.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+&style=for-the-badge" alt="Google Dev Author"/></a> -->
+    <a style="text-decoration: none !important" href="https://medium.com/@hossein13m" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+    <a style="text-decoration: none !important" href="https://open.spotify.com/episode/5BoFoH3WNYU5khCOCqtogz?si=FZyWIcijSzK6QUocPujjsw" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Medium"/></a>
+
 
 </div>
 
