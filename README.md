@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <div>
   <h1>Hi there, This is Hossein Mousavi 👋</h1>
   <h3 style="text-align: center">
-   💻 Find out more about my expertise, publications and reach out to me on:
+   💻 Discover my world at my portfolio:
     <a style="text-decoration: none !important;"   href="https://hmousavi.dev/" target="_blank">
       <span> hmousavi.dev </span>
     </a>
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<h3>🛠  My Skills, Expertise, and Tools</h3>
+<h3>🛠  I have proficiency in: </h3>
   <div>
         <img src="./assets/javascript.png" alt="js"/>
         <img src="./assets/typescript.png" alt="ts"/>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   </div>
     
 
-  <h3>🔎 You Can Reach Me On</h3> 
+  <h3>🔎 Feel free to reach out to me On: </h3> 
 <div>
     <a style="text-decoration: none !important" href="https://www.linkedin.com/in/hossein13m" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a style="text-decoration: none !important" href="https://github.com/hossein13m/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
