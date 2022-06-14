@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 <div>
   <h1>Hi there, This is Hossein Mousavi 👋</h1>
   <h3 style="text-align: center">
-   💻 Discover my 
+   💻 Discover my
     <a style="text-decoration: none !important;" href="https://en.wikipedia.org/wiki/Dastan" target="_blank">
-      <span> Dastan! </span>
+      <span>Dastan!</span>
     </a>
     at my portfolio:
     <a style="text-decoration: none !important;"   href="https://hmousavi.dev/" target="_blank">
