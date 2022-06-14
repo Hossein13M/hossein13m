@@ -14,8 +14,7 @@ Here are some ideas to get you started:
   <h3 style="text-align: center">
    💻 Discover my 
     <a style="text-decoration: none !important;" href="https://en.wikipedia.org/wiki/Dastan" target="_blank">
-      <span> Dastan </span>
-      
+      <span> Dastan! </span>
     </a>
     at my portfolio:
     <a style="text-decoration: none !important;"   href="https://hmousavi.dev/" target="_blank">
