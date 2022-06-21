@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 <div>
     <a style="margin: 5px; text-decoration: none !important; cursor: default; width: 100%"  href="https://hmousavi.dev/" target="_blank">
-      <img height="170px" src="https://activity-graph.herokuapp.com/graph?username=imokech&theme=dracula" alt="Hossein Mousavi stats"/>
+      <img height="280px" src="https://activity-graph.herokuapp.com/graph?username=imokech&theme=dracula" alt="Hossein Mousavi stats"/>
     </a>
 </div>
 
