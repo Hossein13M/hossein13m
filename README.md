@@ -69,6 +69,11 @@ Here are some ideas to get you started:
    <a style="text-decoration: none !important; cursor: default"  href="https://hmousavi.dev/" target="_blank">
         <img height="200px" width="500px"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossein13m&theme=dracula" alt="Hossein Mousavi stats"/>
    </a>
+
+   <a style="margin: 5px; text-decoration: none !important; cursor: default"  href="https://hmousavi.dev/" target="_blank">
+        <img height="170px" src="./assets/js-bird.gif" alt="JS Bird"/>
+   </a> 
+
    <a style="margin: 5px; text-decoration: none !important; cursor: default"  href="https://hmousavi.dev/" target="_blank">
         <img height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hossein13m&theme=dracula" alt="Hossein Mousavi stats"/>
    </a>
@@ -81,9 +86,7 @@ Here are some ideas to get you started:
         <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hossein13m&theme=dracula" alt="Hossein Mousavi stats"/>
    </a> -->
 
-   <a style="margin: 5px; text-decoration: none !important; cursor: default"  href="https://hmousavi.dev/" target="_blank">
-        <img height="170px" src="./assets/js-bird.gif" alt="JS Bird"/>
-   </a>
+   
 
    <a style="margin: 5px; text-decoration: none !important; cursor: default"  href="https://hmousavi.dev/" target="_blank">
         <img height="170px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Hossein Mousavi stats"/>
