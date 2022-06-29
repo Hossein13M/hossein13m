@@ -66,13 +66,15 @@ Here are some ideas to get you started:
 
 <div style="text-align: center" >
 
+   <a style="margin: 5px; text-decoration: none !important; cursor: default"  href="https://hmousavi.dev/" target="_blank">
+        <img height="170px" src="./assets/js-bird.gif" alt="JS Bird"/>
+   </a> 
+
    <a style="text-decoration: none !important; cursor: default"  href="https://hmousavi.dev/" target="_blank">
         <img height="200px" width="500px"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossein13m&theme=dracula" alt="Hossein Mousavi stats"/>
    </a>
 
-   <a style="margin: 5px; text-decoration: none !important; cursor: default"  href="https://hmousavi.dev/" target="_blank">
-        <img height="170px" src="./assets/js-bird.gif" alt="JS Bird"/>
-   </a> 
+   
 
    <a style="margin: 5px; text-decoration: none !important; cursor: default"  href="https://hmousavi.dev/" target="_blank">
         <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hossein13m&theme=dracula" alt="Hossein Mousavi stats"/>
