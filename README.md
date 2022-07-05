@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <h1>Hi there, This is Hossein Mousavi 👋</h1>
+  <h1>Hello My Friend, This is Hossein Mousavi 👋</h1>
   <h3 style="text-align: center">
    💻 Discover my
     <a style="text-decoration: none !important;" href="https://en.wikipedia.org/wiki/Dastan" target="_blank">
