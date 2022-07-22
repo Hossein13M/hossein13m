@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<h3>🛠  I have proficiency in: </h3>
+<h3>💡  I have proficiency in: </h3>
   <div>
         <img src="./assets/javascript.png" alt="js"/>
         <img src="./assets/typescript.png" alt="ts"/>
