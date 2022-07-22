@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   </div>
     
 
-  <h3>🔎 You can find me on: </h3> 
+  <h3>🕵🏻 You can find me on: </h3> 
 <div>
     <a style="text-decoration: none !important" href="https://www.linkedin.com/in/hossein13m" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a style="text-decoration: none !important" href="https://github.com/hossein13m/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
