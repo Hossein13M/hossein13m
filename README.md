@@ -41,7 +41,7 @@ Here are some ideas to get you started:
         <img src="./assets/html-5.png" alt="html"/>
         <img src="./assets/css3.png" alt="css"/>
         <img src="./assets/sass.png" alt="sass"/>
-        <img src="./assets/tailwindsCss.png" alt="tailwindsCss"/>
+        <img src="assets/tailwindCss.png" alt="tailwindCss"/>
         <img src="./assets/bootstrap.png" alt="bootstrap"/>
     
 <!--  image credit: https://icons8.com/  -->
