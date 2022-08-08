@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   <h3>Hello My Friend, This is Hossein Mousavi 👋</h3>
   <h4 style="text-align: center">
    👨‍💻 Discover my
-    <a style="text-decoration: none !important;" href="https://en.wikipedia.org/wiki/Dastan" target="_blank">
+    <a style="text-decoration: none !important;" href="https://en.wikipedia.org/wiki/Dastan" target="blank">
       <span>Dastan!</span>
     </a>
     at my portfolio:
