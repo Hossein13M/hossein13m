@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   </div>
     
 
-  <h4>🕵🏻 My contents: </h4> 
+  <h4>🕵🏻 Reach out to me: </h4> 
 <div>
     <a style="text-decoration: none !important" href="https://www.linkedin.com/in/hossein13m" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn"/>
