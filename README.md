@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 
 <div>
     <img align="left" hspace="5" src="https://github-readme-stats.vercel.app/api?username=hossein13m&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true"/>
-    <h3>Iranian Lives Matter
+    <h2>Iranian Lives Matter
       <a style="text-decoration: none !important;" href="https://twitter.com/search?q=%23mahsaAmini" target="blank">
         #MahsaAmini
       </a>
-    </h3>
-  <h4>Hello My Friend, This is Hossein Mousavi 👋</h4>
-  <h4 style="text-align: center">
+    </h2>
+  <h3>Hello My Friend, This is Hossein Mousavi 👋</h3>
+  <h3 style="text-align: center">
    👨‍💻 Discover my
     <a style="text-decoration: none !important;" href="https://en.wikipedia.org/wiki/Dastan" target="blank">
       <span>Dastan!</span>
@@ -28,10 +28,10 @@ Here are some ideas to get you started:
     <a style="text-decoration: none !important;"   href="https://hmousavi.dev/" target="_blank">
       <span> hmousavi.dev </span>
     </a>
-  </h4>
+  </h3>
 </div>
 
-<h4>🕵🏻 Reach out to me: </h4> 
+<!-- <h3>🕵🏻 Reach out to me: </h3>  -->
 <div>
     <a style="text-decoration: none !important" href="https://www.linkedin.com/in/hossein13m" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn"/>
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
     </a>
 </div>
 
-<h4>💡 My expertises: </h4>
+<h3>💡 My expertises: </h3>
   <div>
         <img src="./assets/javascript.png" alt="js"/>
         <img src="./assets/typescript.png" alt="ts"/>
