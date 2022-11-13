@@ -54,6 +54,9 @@ Here are some ideas to get you started:
     <a style="text-decoration: none !important" href="https://open.spotify.com/episode/5BoFoH3WNYU5khCOCqtogz?si=FZyWIcijSzK6QUocPujjsw" target="_blank">
         <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="25px" alt="Medium"/>
     </a>
+    <a style="text-decoration: none !important" href="https://devlibrary.withgoogle.com/authors/hossein13m" target="_blank">
+        <img src="https://img.shields.io/badge/Google Dev Library-4285F4?style=for-the-badge&logo=google&logoColor=white" height="25px" alt="GoogleDevLibrary"/>
+    </a>
 </div>
 
 <h3>💡 My expertises: </h3>
