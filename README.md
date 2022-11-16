@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-    <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api?username=hossein13m&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true"/>
+    <img align="left" width="320px" src="https://github-readme-stats.vercel.app/api?username=hossein13m&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true"/>
     <h2>Iranian Lives Matter
       <a style="text-decoration: none !important;" href="https://twitter.com/search?q=%23mahsaAmini" target="blank">
         #MahsaAmini
