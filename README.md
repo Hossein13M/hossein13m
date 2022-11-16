@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 </div>
 
 <h3>💡 My expertises: </h3>
-  <div>
+<div>
         <img src="./assets/javascript.png" alt="js"/>
         <img src="./assets/typescript.png" alt="ts"/>
         <img src="./assets/angular.png" alt="angular"/>
@@ -80,7 +80,13 @@ Here are some ideas to get you started:
         <img src="./assets/bootstrap.png" alt="bootstrap"/>
     
 <!--  image credit: https://icons8.com/  -->
-  </div>
+</div>
+  
+<div align="center"> 
+    Visited Users:
+    <br/>
+    <img src="https://profile-counter.glitch.me/hossein13m/count.svg" />
+</div>
     
 
   
