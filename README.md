@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 </div>
   
 <div> 
-    Visited Users:
+    <span> Visited Users: </span>
     <img src="https://profile-counter.glitch.me/hossein13m/count.svg" />
 </div>
     
