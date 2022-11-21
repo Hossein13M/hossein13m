@@ -82,9 +82,8 @@ Here are some ideas to get you started:
 <!--  image credit: https://icons8.com/  -->
 </div>
   
-<div align="center"> 
+<div> 
     Visited Users:
-    <br/>
     <img src="https://profile-counter.glitch.me/hossein13m/count.svg" />
 </div>
     
