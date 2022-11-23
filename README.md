@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     </h2>
   <h3>Hello My Friend, This is Hossein Mousavi 👋</h3>
   <h3 style="text-align: center">
-   👨‍💻 Discover my
+   Discover my
     <a style="text-decoration: none !important;" href="https://en.wikipedia.org/wiki/Dastan" target="blank">
       <span>Dastan!</span>
     </a>
