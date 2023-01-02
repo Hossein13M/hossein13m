@@ -12,15 +12,14 @@ Here are some ideas to get you started:
 -->
 
 <div>
-    <img align="left" width="320px" src="https://github-readme-stats.vercel.app/api?username=hossein13m&show_icons=true&theme=apprentice"/>
-    <h2>Iranian Lives Matter
+    <h2 >Iranian Lives Matter
       <a style="text-decoration: none !important;" href="https://twitter.com/search?q=%23mahsaAmini" target="blank">
         #MahsaAmini 🕊️ 
       </a>
     </h2>
-  <h3>Hello My Friend, This is Hossein Mousavi 👋</h3>
-  <h3 style="text-align: center">
-   Discover my
+  
+  <h3>
+   This is Hossein Mousavi 👋 Discover my
     <a style="text-decoration: none !important;" href="https://en.wikipedia.org/wiki/Dastan" target="blank">
       <span>Dastan!</span>
     </a>
@@ -81,8 +80,7 @@ Here are some ideas to get you started:
     
 <!--  image credit: https://icons8.com/  -->
 </div>
-
 <div style="display: flex; align-items: center">
-    <span style="margin-right: 10px;"> Visited Users: </span>
-    <img src="https://profile-counter.glitch.me/hossein13m/count.svg" width="150px"/>
+
 </div>
+<img src="https://profile-counter.glitch.me/hossein13m/count.svg" width="120px"/>
