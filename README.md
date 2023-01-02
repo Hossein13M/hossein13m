@@ -82,13 +82,7 @@ Here are some ideas to get you started:
 <!--  image credit: https://icons8.com/  -->
 </div>
 
-<table>
-  <tr>
-    <td valign="center">
-        <span style="margin-bottom: 10px;"> Visited Users: </span>
-    </td>
-    <td valign="center">
-         <img src="https://profile-counter.glitch.me/hossein13m/count.svg" />
-    </td>
-  </tr>
-</table> 
+<div style="display: flex; align-items: center">
+    <span style="margin-right: 10px;"> Visited Users: </span>
+    <img src="https://profile-counter.glitch.me/hossein13m/count.svg" width="150px"/>
+</div>
