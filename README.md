@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-    <h2 >Iranian Lives Matter
+    <h2>Iranian Lives Matter
       <a style="text-decoration: none !important;" href="https://twitter.com/search?q=%23mahsaAmini" target="blank">
         #MahsaAmini 🕊️ 
       </a>
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
       <span>Dastan!</span>
     </a>
     at my portfolio:
-    <a style="text-decoration: none !important;"   href="https://hmousavi.dev/" target="_blank">
+    <a style="text-decoration: none !important;" href="https://hmousavi.dev/" target="_blank">
       <span> hmousavi.dev </span>
     </a>
   </h3>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25px" alt="Gmail"/>
     </a>
      <a style="text-decoration: none !important" href="https://open.spotify.com/episode/5BoFoH3WNYU5khCOCqtogz?si=FZyWIcijSzK6QUocPujjsw" target="_blank">
-        <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="25px" alt="Medium"/>
+        <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="25px" alt="Spotify"/>
     </a>
     <a style="text-decoration: none !important" href="https://medium.com/@hossein13m" target="_blank">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25px" alt="Medium"/>
@@ -83,4 +83,11 @@ Here are some ideas to get you started:
 <div style="display: flex; align-items: center">
 
 </div>
-<img src="https://profile-counter.glitch.me/hossein13m/count.svg" width="120px"/>
+<table>
+    <tr>
+        <td>
+            <small>profile visit:</small>
+            <img src="https://profile-counter.glitch.me/hossein13m/count.svg" width="120px"/>
+        </td>
+    </tr>
+</table>
