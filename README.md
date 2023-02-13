@@ -12,14 +12,12 @@ Here are some ideas to get you started:
 -->
 
 <div>
-    <h2>Iranian Lives Matter
-      <a style="text-decoration: none !important;" href="https://twitter.com/search?q=%23mahsaAmini" target="blank">
-        #MahsaAmini 🕊️ 
-      </a>
+    <h2>
+        Woman, Life, Freedom 🕊️ This is Hossein Mousavi 👋
     </h2>
   
   <h3>
-   This is Hossein Mousavi 👋 Discover my
+   Discover my
     <a style="text-decoration: none !important;" href="https://en.wikipedia.org/wiki/Dastan" target="blank">
       <span>Dastan!</span>
     </a>
