@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <div>
     <h2>
-        Woman, Life, Freedom 🕊️ This is Hossein Mousavi 👋
+        Woman, Life, Freedom 🕊️
     </h2>
   
   <h3>
