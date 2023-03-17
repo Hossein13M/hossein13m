@@ -78,14 +78,3 @@ Here are some ideas to get you started:
     
 <!--  image credit: https://icons8.com/  -->
 </div>
-<div style="display: flex; align-items: center">
-
-</div>
-<table>
-    <tr>
-        <td>
-            <small>profile visit:</small>
-            <img src="https://profile-counter.glitch.me/hossein13m/count.svg" width="120px"/>
-        </td>
-    </tr>
-</table>
