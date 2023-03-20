@@ -42,9 +42,9 @@ Here are some ideas to get you started:
     <a style="text-decoration: none !important" href="https://twitter.com/hossein13m" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25px" alt="Twitter"/>
     </a>
-    <a style="text-decoration: none !important" href="mailto:dev.hosseinmousavi@gmail.com" target="_blank">
+<!--     <a style="text-decoration: none !important" href="mailto:dev.hosseinmousavi@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25px" alt="Gmail"/>
-    </a>
+    </a> -->
      <a style="text-decoration: none !important" href="https://open.spotify.com/episode/5BoFoH3WNYU5khCOCqtogz?si=FZyWIcijSzK6QUocPujjsw" target="_blank">
         <img src="https://img.shields.io/badge/My Podcast On Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="25px" alt="Spotify"/>
     </a>
