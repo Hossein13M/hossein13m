@@ -46,7 +46,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25px" alt="Gmail"/>
     </a> -->
      <a style="text-decoration: none !important" href="https://open.spotify.com/episode/5BoFoH3WNYU5khCOCqtogz?si=FZyWIcijSzK6QUocPujjsw" target="_blank">
-        <img src="https://img.shields.io/badge/My Podcast On Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="25px" alt="Spotify"/>
+        <img src="https://img.shields.io/badge/My Podcast On Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&color=#1ED760" height="25px" alt="Spotify"/>
     </a>
     <a style="text-decoration: none !important" href="https://medium.com/@hossein13m" target="_blank">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25px" alt="Medium"/>
