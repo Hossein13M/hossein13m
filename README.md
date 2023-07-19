@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     <a style="text-decoration: none !important;" href="https://en.wikipedia.org/wiki/Dastan" target="blank">
       <span>Dastan!</span>
     </a>
-    at my portfolio:
+    at:
     <a style="text-decoration: none !important;" href="https://hmousavi.dev/" target="_blank">
       <span> hmousavi.dev </span>
     </a>
