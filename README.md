@@ -13,11 +13,8 @@ Here are some ideas to get you started:
 
 <div>
     <h2>
-        Hossein Mousavi
-    </h2>
-  
-  <h3>
-   Discover my
+        This is Hossein Mousavi 🤘 
+        Discover my
     <a style="text-decoration: none !important;" href="https://en.wikipedia.org/wiki/Dastan" target="blank">
       <span>Dastan!</span>
     </a>
@@ -25,7 +22,7 @@ Here are some ideas to get you started:
     <a style="text-decoration: none !important;" href="https://hmousavi.dev/" target="_blank">
       <span> hmousavi.dev </span>
     </a>
-  </h3>
+    </h2>
 </div>
 
 <!-- <h3>🕵🏻 Reach out to me: </h3>  -->
