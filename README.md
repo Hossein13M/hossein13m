@@ -1,26 +1,8 @@
-<!--**hossein13m/hossein13m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...7
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p>
-    This is Hossein Mousavi 🤘 Discover my
-    <a style="text-decoration: none !important;" href="https://en.wikipedia.org/wiki/Dastan" target="blank">
-      <span>Dastan!</span>
+<h1 align="center">
+    <a href="https://hmousavi.dev" target="_blank">
+        Hi there, I'm Hossein Mousavi 👋
     </a>
-    at:
-    <a style="text-decoration: none !important;" href="https://hmousavi.dev/" target="_blank">
-      <span> hmousavi.dev </span>
-    </a>
-</p>
-
+</h1>
 <div>
     <a style="text-decoration: none !important" href="https://www.linkedin.com/in/hossein13m" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn"/>
