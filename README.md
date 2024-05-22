@@ -1,6 +1,9 @@
-<h1 align="center">
+<h1>
+    <span href="https://hmousavi.dev" target="_blank">
+        This is Hossein Mousavi 👋
+    </span>
     <a href="https://hmousavi.dev" target="_blank">
-        Hi there, I'm Hossein Mousavi 👋
+        hmousavi.dev
     </a>
 </h1>
 <div>
@@ -24,7 +27,7 @@
     </a>
 </div>
 
-<h3>💡 My expertises: </h3>
+<br />
 <div>
     <img src="./assets/javascript.png" alt="js"/>
     <img src="./assets/typescript.png" alt="ts"/>
