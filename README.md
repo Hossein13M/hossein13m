@@ -1,9 +1,9 @@
 <h1>
-    <span href="https://hmousavi.dev" target="_blank">
+    <span href="https://hossein.dev" target="_blank">
         This is Hossein Mousavi 👋
     </span>
-    <a href="https://hmousavi.dev" target="_blank">
-        hmousavi.dev
+    <a href="https://hossein.dev" target="_blank">
+        hossein.dev
     </a>
 </h1>
 <div>
@@ -25,26 +25,4 @@
     <a style="text-decoration: none !important" href="https://devlibrary.withgoogle.com/authors/hossein13m" target="_blank">
         <img src="https://img.shields.io/badge/Google Dev Library-4285F4?style=for-the-badge&logo=google&logoColor=white" height="25px" alt="GoogleDevLibrary"/>
     </a>
-</div>
-
-<br />
-<div>
-    <img src="./assets/javascript.png" alt="js"/>
-    <img src="./assets/typescript.png" alt="ts"/>
-    <img src="./assets/angular.png" alt="angular"/>
-    <img src="./assets/vue-js.png" alt="vue"/>
-    <img src="./assets/nuxtJS.png" alt="nuxtJS"/>
-    <img src="./assets/react.png" alt="react"/>
-    <img src="./assets/nextJS.png" alt="nextJS"/>
-    <img src="./assets/nodeJS.png" alt="nodejs"/>
-    <img src="./assets/nestJS.png" alt="nestJS"/>
-    <img src="./assets/mongodb.png" alt="mongodb"/>
-    <img src="./assets/linux.png" alt="linux"/>
-    <img src="./assets/git.png" alt="git"/>
-    <img src="./assets/html-5.png" alt="html"/>
-    <img src="./assets/css3.png" alt="css"/>
-    <img src="./assets/sass.png" alt="sass"/>
-    <img src="assets/tailwindCss.png" alt="tailwindCss"/>
-    <img src="./assets/bootstrap.png" alt="bootstrap"/>
-    <!--  image credit: https://icons8.com/  -->
 </div>
