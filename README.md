@@ -3,7 +3,7 @@
         This is Hossein Mousavi 👋
     </span>
     <a href="https://hossein.dev" target="_blank">
-        hossein.dev
+        Hossein.dev
     </a>
 </h1>
 <div>
