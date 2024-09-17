@@ -1,9 +1,6 @@
 <h1>
-    <span href="https://hossein.dev" target="_blank">
-        Hello World! 👋
-    </span>
     <a href="https://hossein.dev" target="_blank">
-        Hossein.dev
+        hossein.dev
     </a>
 </h1>
 <div>
