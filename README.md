@@ -1,8 +1,3 @@
-<h1>
-    <a href="https://hossein.dev" target="_blank">
-        hossein.dev
-    </a>
-</h1>
 <div>
     <a style="text-decoration: none !important" href="https://www.linkedin.com/in/hossein13m" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn"/>
