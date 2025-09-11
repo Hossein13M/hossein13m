@@ -1,5 +1,3 @@
-<h1 align="left">Hi, I'm Hossein Mousavi 👋</h1>
-
 ## 🌐 Where to Find Me
 <p align="left">
   <a href="https://www.linkedin.com/in/hossein13m" target="_blank">
