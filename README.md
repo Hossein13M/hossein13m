@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   <a href="https://t.me/DevDastan" target="_blank">
-    <img src="https://img.shields.io/badge/My_Telegram_Channel-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://hossein.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/My_Portfolio-8E44AD?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-8E44AD?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
