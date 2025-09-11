@@ -1,4 +1,4 @@
-## 🌐 Where to Find Me
+## 🌐 Get In Touch
 <p align="left">
   <a href="https://www.linkedin.com/in/hossein13m" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -18,18 +18,4 @@
   <a href="https://hossein.dev/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-8E44AD?style=for-the-badge&logo=web&logoColor=white" alt="My Portfolio"/>
   </a>
-</p>
-
-## 🛠️ Skills & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/NX-143055?style=for-the-badge&logo=nrwl&logoColor=white" alt="NX"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff" alt=".Net"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white" alt="AWS"/>
 </p>
